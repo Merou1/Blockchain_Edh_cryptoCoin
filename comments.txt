@@ -1,0 +1,16 @@
+db awel haja 9adina lmain w utils li fehum dak les etapes dyal hashach w signature..
+men bead 9adina les classses bloc blockchain transaction transactionReward
+
+d khassna wa7ed lhajat ndirouhoum bash iweli hadshy blockchain li huma les fcts li kaykun  f ay blockchain
+had les fcts huma:(mretbin)
+-load and save blockchain(json file)
+-solde
+-verifier transaction hit transaction katji 9bel bloc donc atvPrifia 9bel menou
+-vérifier un bloc
+-ajouter un bloc
+-vérifier blockchain
+
+hadu dernahum f ervices.js
+
+
+
